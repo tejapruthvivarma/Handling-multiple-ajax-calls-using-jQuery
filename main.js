@@ -1,13 +1,6 @@
 (function(){
     $(document).ready(function(){
 
-        /*
-         *  Quiz #3
-         *
-         *  Instructions:
-         *     - complete the three Ajax calls to server1.php, server2.php, and server3.php
-         *     - ensure all three Ajax calls have completed, then call the finalize() function
-         */
 
         // function to call once all three Ajax calls have returned
         var finalize = function(){
