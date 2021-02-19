@@ -1,5 +1,4 @@
-
- *
+ /*
  *  === How to Subscribe ===
  *
  *  var mySubscription = events.subscribe('testSubscription', function(returnObject){
