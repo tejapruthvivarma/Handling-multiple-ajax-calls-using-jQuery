@@ -1,5 +1,4 @@
-/*
- *  Publish/Subscribe - courtesy of davidwalshblog.com
+
  *
  *  === How to Subscribe ===
  *
